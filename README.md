@@ -1,5 +1,7 @@
 # POO-II
 
+Grupo:
+
 Carolina Fernandes Dos Reis || RA: 149132 || E-mail: carolfdosreis@gmail.com || GitHub: https://github.com/carolinafreis
 
 Geovana Marinello Palomo || RA: 168487 || E-mail: gm-palomo@outlook.com || GitHub:  https://github.com/geovanamarinello
@@ -15,3 +17,5 @@ Objetivo: Fornecer dados da quantidade de usuário da internet no mundo entre os
 Fonte do Dado: The World Bank - http://databank.worldbank.org/data/reports.aspx?Code=IT.NET.USER.P2&id=af3ce82b&report_name=Popular_indicators&populartype=series&ispopular=y#
 
 Tipo de consulta: Busca de informações selecionadas pelo usuário
+
+Descrição: O projeto terá como intuito realizar um levantamento da quantidade de usuários de internet no mundo nos anos de 2000 a 2014, proporcionando selecionar, por meio de “filtro(s)”, o método como os dados serão expostos. 
