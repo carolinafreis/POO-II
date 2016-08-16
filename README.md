@@ -1,21 +1,23 @@
-# POO-II
+## **Título do Projeto:** Percentual mundial de usuários da internet (2000 – 2014) 
+**Repositório no GitHub:** https://github.com/carolinafreis/POO-II
 
-Grupo:
+**Identificação dos membros da equipe de desenvolvimento do projeto:**
+  Carolina Fernandes Dos Reis || RA: 149132 || E-mail: carolfdosreis@gmail.com || GitHub: https://github.com/carolinafreis 
+  Geovana Marinello Palomo || RA: 168487 || E-mail: gm-palomo@outlook.com || GitHub:  https://github.com/geovanamarinello 
+  Victor Hugo Gomes de Oliveira || RA: 177976 || E-mail: oliveirvh@gmail.com || GitHub:  https://github.com/victorhugoliveira 
 
-Carolina Fernandes Dos Reis || RA: 149132 || E-mail: carolfdosreis@gmail.com || GitHub: https://github.com/carolinafreis
+**Papéis:** Desenvolvedor (todos) / Relator / Gerente 
+    **1° Semana:** Victor Hugo Gomes de Oliveira (Gerente) / Carolina Fernandes Dos Reis (Relatora)  
+    **2° Semana:** Carolina Fernandes dos Reis (Gerente) / Geovana Marinello Palomo (Relatora)
+    **3° Semana:** Geovana Marinello Palomo (Gerente) / Victor Hugo Gomes de Oliveira (Relator)
+    Obs: Sequência se repete. Todos os membros são desenvolvedores em todas as fases.
 
-Geovana Marinello Palomo || RA: 168487 || E-mail: gm-palomo@outlook.com || GitHub:  https://github.com/geovanamarinello
 
-Victor Hugo Gomes de Oliveira || RA: 177976 || E-mail: oliveirvh@gmail.com || GitHub:  https://github.com/victorhugoliveira
+**Motivação:** O projeto é relevante para evidenciar a disparidade socioeconômica entre países e continentes.  
 
-Repositório no GitHub: https://github.com/carolinafreis/POO-II
+**Fonte de Dados:** The World Bank - http://databank.worldbank.org/data/reports.aspx?Code=IT.NET.USER.P2&id=af3ce82b&report_name=Popular_indicators&populartype=series&ispopular=y# 
 
-Título: Percentual mundial de usuários da internet (2000 – 2014)
-
-Objetivo: Fornecer dados da quantidade de usuário da internet no mundo entre os anos de 2000 a 2014
-
-Fonte do Dado: The World Bank - http://databank.worldbank.org/data/reports.aspx?Code=IT.NET.USER.P2&id=af3ce82b&report_name=Popular_indicators&populartype=series&ispopular=y#
-
-Tipo de consulta: Busca de informações selecionadas pelo usuário
-
-Descrição: O projeto terá como intuito realizar um levantamento da quantidade de usuários de internet no mundo nos anos de 2000 a 2014, proporcionando selecionar, por meio de “filtro(s)”, o método como os dados serão expostos. 
+**Descrição dos dados:** Os atributos serão os anos nos quais os dados foram coletados nos determinados países.  
+**Volume dos dados:** 3735 registros 
+**Formato dos dados:** CSV 
+**Exemplo de consulta a ser realizado:** Consulta por seleção de país. Buscando dar maior evidência ao seu *status* através da análise dos dados. Ou seja, se houve crescimento ou decrescimento nos 15 anos retratados, utilizando essa informação como reflexo da sua imagem mundial.    
