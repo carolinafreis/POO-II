@@ -39,3 +39,8 @@
 
 
 **Exemplo de consulta a ser realizado:** Consulta por seleção de país. Buscando dar maior evidência ao seu *status* através da análise dos dados. Ou seja, se houve crescimento ou decrescimento nos 15 anos retratados, utilizando essa informação como reflexo da sua imagem mundial.    
+
+
+
+! [IMAGEM TABELA] 
+(https://github.com/carolinafreis/POO-II/blob/master/tabela_poo.jpg)
