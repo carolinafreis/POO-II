@@ -42,5 +42,5 @@
 
 
 
-! [IMAGEM TABELA] 
-(https://github.com/carolinafreis/POO-II/blob/master/tabela_poo.jpg)
+[IMAGEM TABELA] (https://github.com/carolinafreis/POO-II/blob/master/tabela_poo.jpg)
+[IMAGEM GRÁFICO] (https://github.com/carolinafreis/POO-II/blob/master/grafico_poo.jpg)
