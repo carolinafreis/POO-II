@@ -11,18 +11,6 @@
   Victor Hugo Gomes de Oliveira || RA: 177976 || E-mail: oliveirvh@gmail.com || GitHub:  https://github.com/victorhugoliveira 
 
 
-**Papéis:** Desenvolvedor (todos) / Relator / Gerente 
-
-**Semana 1:** Victor Hugo Gomes de Oliveira (Gerente) / Carolina Fernandes Dos Reis (Relatora)  
- 
-**Semana 2:** Carolina Fernandes dos Reis (Gerente) / Geovana Marinello Palomo (Relatora)
-
-**Semana 3:** Geovana Marinello Palomo (Gerente) / Victor Hugo Gomes de Oliveira (Relator)
-
-*Obs: Sequência se repete. Todos os membros são desenvolvedores em todas as fases.*
-
-
-
 **Motivação:** O projeto é relevante para evidenciar a disparidade socioeconômica entre países e continentes.  
 
 
