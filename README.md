@@ -18,13 +18,14 @@
 
 
 **Descrição dos dados:** Os atributos serão:
-          
           - Os anos nos quais os dados foram coletados nos determinados países;
         
           - A faixa/intevalo do percentual de usuários de internet nos países;
           
           - E os nomes dos países que serão oferecidos para análise desses dados.
-          Esses dados poderão ser utilizados em conjunto ou separados para a exposição dos mesmos por meio de tabelas ou gráficos.
+          
+          Esses dados poderão ser utilizados em conjunto ou separados para a exposição dos mesmos
+          por meio de tabelas ou gráficos.
 
 **Volume dos dados:** 3735 registros 
 
